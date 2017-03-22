@@ -5,9 +5,9 @@ Maintainer: AziDesigns <azisupport@me.com>
 Depends: com.anemonetheming.anemone
 Filename: debs//themes/com.azidesigns.maleya2.deb
 Size: 14999386
-MD5sum: 01CE90C15F33EF47635CD0C1A2A17941
-SHA1: 8BCB50B76AEADC9143BDB27DC9FBDF36DB0EF187
-SHA256: 44F7118A3F45185C94A42E1E9E9CA8A57416F18DE4F12F0CE912A5D358098478
+MD5sum: 01ce90c15f33ef47635cd0c1a2a17941
+SHA1: 8bcb50b76aeadc9143bdb27dc9fbdf36db0ef187
+SHA256: 44f7118a3f45185c94a42e1e9e9ca8a57416f18de4f12f0ce912a5d358098478
 Section: Themes (Anemone)
 Description: Maleya 2 by Axinen.
 Author: AziDesigns and (Axinen) <azisupport@me.com>
