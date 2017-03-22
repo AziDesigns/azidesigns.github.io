@@ -1,0 +1,9 @@
+Origin: AziDesigns Repo
+Label: AziDesigns Repo
+Suite: stable
+Version: 1.0
+Codename: AziDesigns
+Architectures: iphoneos-arm
+Components: main
+Description: AziDesigns Repo
+MD5Sum:
