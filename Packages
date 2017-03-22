@@ -1,0 +1,15 @@
+Package: com.azidesigns.maleya2
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: AziDesigns <azisupport@me.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//themes/com.azidesigns.maleya2.deb
+Size: 4358
+MD5sum: 0b0805cc75d1aed56fb18a719548dfd9
+SHA1: 1636c56e72d050076ee893db4bd949bb6dc15aa2
+SHA256: 4987ed43440a4ff9c48a791bc74ffe647530216b6b0c4dce20aa50b2fcdca742
+Section: Themes (Anemone)
+Description: Maleya 2 by Axinen.
+Author: Julian Gomez (Axinen) <azisupport@me.com>
+Depiction: http://azidesigns.github.io/azidesigns/index.html?p=com.azidesigns.maleya2
+Name: Maleya 2
