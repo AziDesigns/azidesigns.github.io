@@ -13,3 +13,19 @@ Description: Maleya2 by Axinen.
 Author: AziDesigns and (Axinen) <azisupport@me.com>
 Depiction: http://azidesigns.github.io/depictions/index.html?p=com.azidesigns.maleya2
 Name: Maleya 2
+
+Package: com.azidesigns.irisui
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: AziDesigns <azisupport@me.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//themes/com.azidesigns.irisui.deb
+Size: 59231840
+MD5sum: b21f12b733bafeff12b689afaaebbd2d
+SHA1: a323d8d586ae38a177da774cdd7c1da79e9184c1
+SHA256: 4026b634f7da594bd16a2c7dae0f4d2448c0354c891ec560c9bf7557bc276401
+Section: Themes (Anemone)
+Description: Iris UI by Axinen.
+Author: AziDesigns and (Axinen) <azisupport@me.com>
+Depiction: http://azidesigns.github.io/depictions/index.html?p=com.azidesigns.irisui
+Name: Iris UI
