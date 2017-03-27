@@ -20,10 +20,10 @@ Architecture: iphoneos-arm
 Maintainer: AziDesigns <azisupport@me.com>
 Depends: com.anemonetheming.anemone
 Filename: debs//themes/com.azidesigns.irisui.deb
-Size: 59231840
-MD5sum: b21f12b733bafeff12b689afaaebbd2d
-SHA1: a323d8d586ae38a177da774cdd7c1da79e9184c1
-SHA256: 4026b634f7da594bd16a2c7dae0f4d2448c0354c891ec560c9bf7557bc276401
+Size: 37057480
+MD5sum: 276a9e0b19bb96a6a84acbb36547da68
+SHA1: 19a9685963b987bf0010a626802e737eff626edb
+SHA256: 9439fc6e8bba833c7e83b4c34316e7cb1a02c0d8162d9e84b87b37cbeff40a57
 Section: Themes (Anemone)
 Description: Iris UI by Axinen.
 Author: AziDesigns and (Axinen) <azisupport@me.com>
