@@ -1,0 +1,32 @@
+<package>
+	<id>com.azidesigns.irisui</id>
+	<name>Full Theme Package</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.anemonetheming.anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Iris UI by Axinien</description>
+		<description>Ported by AziDesigns</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>irisui</description>
+			<image>irisui.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/AziAssassin</url>
+		</link>
+	</links>
+</package>
